@@ -2,8 +2,8 @@
 
 ## 👤 ข้อมูลนักศึกษา
 
-* **ชื่อ:** นางสาวโยโกะ คามิโจ
-* **รหัสนักศึกษา:** 673380302-8
+* **ชื่อ:** นายก้องภพ โชควิริยะ
+* **รหัสนักศึกษา:** 673380030-5
 * **Section:** 2
 * **Email:** yoko.ka@kkumail.com
 
@@ -26,11 +26,11 @@
 
 | Lab   | Link               |
 | ----- | ------------------ |
-| Assignment 1 | [View Document](https://docs.google.com/document/d/1fQkst7m7VWJUIDxazv-2a0Vwb_Jc5xZusqE1OdYgUaU/edit?usp=sharing) |
-| Assignment 2 | [View Document](https://docs.google.com/document/d/1oYhYxAh-yWZzXT6TuDyINvQgFb5xGHiFN9cNn1dtZTw/edit?usp=sharing) |
-| Assignment 3 | [View Document](https://docs.google.com/document/d/19zoStZ22mybLQuzaux4b3fKr1au-V-Vh7V4LLthMNcg/edit?usp=sharing) |
-| Assignment 4 | [View Document](https://docs.google.com/document/d/1mZwSO0gkGUOIvvF4_Po-OqSNPmtznlswJsTfWh-0kKg/edit?tab=t.0) |
-| Assignment 5 | [View Document](https://docs.google.com/document/d/17EMCModVziNEAbgSs9_GbLFjSBY__vonwEZafgPsdfI/edit?tab=t.0) |
+| Assignment 1 | https://docs.google.com/document/d/1rmhPikNi3pGzuiXvH9jYvydpp3JXdYiqFMccOPdFVHI/edit?usp=sharing |
+| Assignment 2 | https://docs.google.com/document/d/1rmhPikNi3pGzuiXvH9jYvydpp3JXdYiqFMccOPdFVHI/edit?usp=sharing |
+| Assignment 3 | https://docs.google.com/document/d/1rmhPikNi3pGzuiXvH9jYvydpp3JXdYiqFMccOPdFVHI/edit?usp=sharing |
+| Assignment 4 | https://docs.google.com/document/d/1rmhPikNi3pGzuiXvH9jYvydpp3JXdYiqFMccOPdFVHI/edit?usp=sharing |
+| Assignment 5 | https://docs.google.com/document/d/1rmhPikNi3pGzuiXvH9jYvydpp3JXdYiqFMccOPdFVHI/edit?usp=sharing |
 
 
 
