@@ -50,6 +50,8 @@ project artifact :https://github.com/lillianxhub/network-BRNA/
 ![Getting_Started_with_Cisco_Packet_Tracer_certificate_kongpob-c-kkumail-com_f3b07a54-8425-414a-9b1d-0588d8f1e40c_page-0001](https://github.com/user-attachments/assets/fa7ec079-38cc-4c93-bcc8-ae7e88030d6d)
 
 
+<img width="1898" height="670" alt="image" src="https://github.com/user-attachments/assets/000dfbed-f247-430e-b1d6-b69b614d3a45" />
+
 
 ---
 
