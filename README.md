@@ -43,13 +43,14 @@ project artifact :https://github.com/lillianxhub/network-BRNA/
 ### Certificate
 
 
-![CCNA-_Introduction_to_Networks_certificate_kongpob-c-kkumail-com_9c791e69-81ab-45d1-8e4a-955d1e9d505b_page-0001](https://github.com/user-attachments/assets/0a1a0b19-6bc2-4509-881f-de3b382c0382)
+![CCNA-_Introduction_to_Networks_certificate_kongpob-c-kkumail-com_9c791e69-81ab-45d1-8e4a-955d1e9d505b_page-0001](CCNA-_Introduction_to_Networks_certificate_rattaphum-k-kkumail-com_4e0a9585-0dfe-4ecd-8cbb-6734fa472414.pdf)
 
 
-![Getting_Started_with_Cisco_Packet_Tracer_certificate_kongpob-c-kkumail-com_f3b07a54-8425-414a-9b1d-0588d8f1e40c_page-0001](https://github.com/user-attachments/assets/fa7ec079-38cc-4c93-bcc8-ae7e88030d6d)
+
+![Getting_Started_with_Cisco_Packet_Tracer_certificate_kongpob-c-kkumail-com_f3b07a54-8425-414a-9b1d-0588d8f1e40c_page-0001](Getting_Started_with_Cisco_Packet_Tracer_certificate_rattaphum-k-kkumail-com_13c1b915-b00a-4a9e-af36-df4e550ac6a6.pdf)
 
 
-<img width="1898" height="670" alt="image" src="https://github.com/user-attachments/assets/000dfbed-f247-430e-b1d6-b69b614d3a45" />
+<img width="1898" height="670" alt="image" src="สกรีนช็อต 2026-04-13 224153.png" />
 
 
 ---
